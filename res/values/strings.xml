@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ViewFlipperTuto!</string>
+    <string name="app_name">ViewFlipperTuto</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="text1">Image 1</string>
+    <string name="text2">Image 2</string>
+    <string name="text3">Image 3</string>
+    <string name="text4">Image 4</string>
+    <string name="text5">Image 5</string>
+    
+</resources>
